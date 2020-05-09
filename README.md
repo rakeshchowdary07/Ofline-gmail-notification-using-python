@@ -1,0 +1,2 @@
+# Ofline-gmail-notification-using-python
+The offline email notification is the program where we can get our email notification without the use of the internet. This is helpful in every situation where one cannot use the internet. It directly gives the notification to the mobile number which Gmail is synced to the thing is that an automated system of this sort can be customized to suit the needs of the users and provide good service to them.

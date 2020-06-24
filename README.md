@@ -1,4 +1,4 @@
-# Ofline-gmail-notification-using-python.
+# Ofline gmail notification using python.
 
 ## Aim
 - The offline email notification is the program where we can get our email notification without the use of the internet. 
